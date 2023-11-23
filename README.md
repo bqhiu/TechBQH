@@ -1,2 +1,2 @@
 # TechBQH
-https://bqhiu.github.io/techbqh
+https://bqhiu.github.io/TechBQH/
